@@ -2,7 +2,7 @@
 
 * {
   box-sizing: border-box;
-  font-family: Poppins !important;
+  font-family: Poppins, Arial, Sans-serif; 
   letter-spacing: 0.5px;
 }
 
